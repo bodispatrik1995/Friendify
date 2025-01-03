@@ -1,1 +1,1 @@
-# Ask-Mate
+# Friendify
